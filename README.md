@@ -8,4 +8,4 @@ The command line instruction to launch the notebook using Voila is: 'voila voila
 
 To display the notebook using Binder, the steps are:
 1) Ensure the file is in a public GitHub repository that contains a 'requirements' file listing dependencies;
-2) Go to Binder and enter the URL of the GitHub repository, then select 'Launch'.
+2) Go to Binder and enter the parent URL of the GitHub repository (https://github.com/MartinLRead/binder_voila_floods) and the ipynb file name (voila_demo5.ipynb), then select 'Launch'.
